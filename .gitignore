@@ -223,3 +223,11 @@ __marimo__/
 # Large COCO annotation datasets
 annotations/instances_train2017.json
 annotations/captions_train2017.json
+
+# Large image datasets
+images/
+
+# Large COCO annotation files
+annotations/instances_train2017.json
+annotations/captions_train2017.json
+data/preprocessed_images/
