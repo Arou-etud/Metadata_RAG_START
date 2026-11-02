@@ -231,3 +231,6 @@ images/
 annotations/instances_train2017.json
 annotations/captions_train2017.json
 data/preprocessed_images/
+
+
+data/preprocessed_images_grayscale/
