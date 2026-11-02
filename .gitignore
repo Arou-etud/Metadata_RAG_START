@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Large COCO annotation datasets
+annotations/instances_train2017.json
+annotations/captions_train2017.json
