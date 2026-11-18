@@ -234,3 +234,18 @@ data/preprocessed_images/
 
 
 data/preprocessed_images_grayscale/
+# Large testing image datasets
+data/testing/testing_images_rgb/
+data/testing/testing_images_gray/
+
+# Large dataset archive
+data/testing.zip
+
+# Duplicate project archives
+embeddings.zip
+notebooks.zip
+
+# Large training annotations
+annotations/captions_train2017.json
+
+data/testing/testing_images_grayscale/
